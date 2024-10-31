@@ -1,0 +1,10 @@
+streamlit
+pandas
+openpyxl
+openai
+asyncio
+pytz
+python-dateutil
+google-auth
+google-auth-httplib2
+google-api-python-client
